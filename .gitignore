@@ -39,3 +39,7 @@ dist/**/*
 
 # ignore yarn.lock
 yarn.lock
+
+# outline tooling
+__pycache__/
+*.pyc
